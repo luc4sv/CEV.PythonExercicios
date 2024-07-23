@@ -1,3 +1,3 @@
-numero = input ('digite um número')
-numero2 = input ('digite outro numero')
-print ('A soma é', numero + numero2)
+valor1 = int(input('valor1 ='))
+valor2 = int(input('valor2 ='))
+print(valor1 + valor2)
